@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasorce.url",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasorce.url."
+    }
+
+  ] }
